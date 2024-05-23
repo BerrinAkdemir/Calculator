@@ -1,0 +1,21 @@
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.exe.config
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.exe
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.pdb
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.AssemblyReference.cache
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.SuggestedBindingRedirects.cache
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.Form1.resources
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.Properties.Resources.resources
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.GenerateResource.cache
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.exe
+C:\Users\berri\Desktop\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.pdb
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.exe.config
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.exe
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\bin\Debug\HesapMakinesiÇalışması.pdb
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.AssemblyReference.cache
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.Form1.resources
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.Properties.Resources.resources
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.GenerateResource.cache
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.csproj.CoreCompileInputs.cache
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.exe
+C:\Users\berri\Desktop\New folder\İnternet Programlmama\Trying\HesapMakinesiÇalışması\HesapMakinesiÇalışması\obj\Debug\HesapMakinesiÇalışması.pdb
